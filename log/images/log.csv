@@ -1,0 +1,2 @@
+prompt,seed,width,height,sampler,cfgs,steps,filename,negative_prompt
+cute little baby plays with cats on the grass,1,512,512,Euler a,7,20,00000-1.png,high resolution
